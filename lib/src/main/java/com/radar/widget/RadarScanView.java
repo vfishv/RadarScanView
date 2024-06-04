@@ -15,6 +15,8 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
+import com.radar.widge.R;
+
 /**
  * @author Pillarzx
  * @date 2020/3/27 11:58
